@@ -9,9 +9,9 @@ The brain is a complex human body organ that serves as the command center, gover
 <b>Getting Started with ⚔️🧠BrainGuard🧠⚔️</b>
 <br><br>
 The project has five folders:<br>
-1- imageـpreـprocessing<br>
-2- CNNـmodel<br>
-3- VGGـmodel<br>
+1- image_pre_processing<br>
+2- CNN_model<br>
+3- VGG_model<br>
 4- contrast_stretch_segmentation.zip<br>
 5- Threshold.zip<br>
 <br><br>
