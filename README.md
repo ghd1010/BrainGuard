@@ -35,5 +35,8 @@ To run the both models (CNN and VGG-16):<br>
 <div align="center">
 <b>Thank you for using ⚔️🧠BrainGuard🧠⚔️!</b>
 </div>
-This project was completed with my team💪🏼: 
-Reema, Maryam, and Roaa 
+<br><br>
+
+**This project was completed with my team💪🏼: **
+<br>
+**Reema, Maryam, and Roaa.**
