@@ -37,6 +37,6 @@ To run the both models (CNN and VGG-16):<br>
 </div>
 <br><br>
 
-**This project was completed with my team💪🏼: **
+**This project was completed with my team💪🏼:**
 <br>
 **Reema, Maryam, and Roaa.**
